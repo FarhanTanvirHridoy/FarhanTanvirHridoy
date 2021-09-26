@@ -1,18 +1,11 @@
-### Hi there 👋
+### Farhan Tanvir Hridoy
+------------------------
+I'm a mechanical engineering student at BUET. But I have a lot of passion on programming. I wish to lead my life on programming.
 
-<!--
-**FarhanTanvirHridoy/FarhanTanvirHridoy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I can program at:
+1. C
+2. Python
+3. Matlab
+4. Visual Basic
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
-I'm currently learning python. I have made few project on python and I love it.
+You can collaborate with me. Thank you
