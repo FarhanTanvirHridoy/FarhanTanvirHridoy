@@ -1,5 +1,5 @@
-### Farhan Tanvir Hridoy
-------------------------
+# Farhan Tanvir Hridoy
+
 I'm a mechanical engineering student at BUET. But I have a lot of passion on programming. I wish to lead my life on programming.
 
 I can program at:
@@ -8,4 +8,4 @@ I can program at:
 3. Matlab
 4. Visual Basic
 
-You can collaborate with me. Thank you
+### You can collaborate with me. Thank you
